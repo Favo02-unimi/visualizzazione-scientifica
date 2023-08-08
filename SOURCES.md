@@ -1,7 +1,7 @@
-Sorgente dati:
+## Historical weather (1940-today)
 
-https://open-meteo.com/en/docs
+https://open-meteo.com/en/docs/historical-weather-api
 
-Query (non sono spuntate le solar radiation che generano un errore):
+## Climate change (1950-2050)
 
-https://open-meteo.com/en/docs/historical-weather-api#latitude=-22.9064&longitude=-43.1822&start_date=1940-01-01&hourly=temperature_2m,relativehumidity_2m,dewpoint_2m,apparent_temperature,precipitation,rain,snowfall,weathercode,pressure_msl,surface_pressure,cloudcover,cloudcover_low,cloudcover_mid,cloudcover_high,et0_fao_evapotranspiration,vapor_pressure_deficit,windspeed_10m,windspeed_100m,winddirection_10m,winddirection_100m,windgusts_10m,soil_temperature_0_to_7cm,soil_temperature_7_to_28cm,soil_temperature_28_to_100cm,soil_temperature_100_to_255cm,soil_moisture_0_to_7cm,soil_moisture_7_to_28cm,soil_moisture_28_to_100cm,soil_moisture_100_to_255cm,is_day&daily=weathercode,temperature_2m_max,temperature_2m_min,temperature_2m_mean,apparent_temperature_max,apparent_temperature_min,apparent_temperature_mean,sunrise,sunset,precipitation_sum,rain_sum,snowfall_sum,precipitation_hours,windspeed_10m_max,windgusts_10m_max,winddirection_10m_dominant,et0_fao_evapotranspiration&timezone=GMT&models=best_match,era5,era5_land,cerra
+https://open-meteo.com/en/docs/climate-api
