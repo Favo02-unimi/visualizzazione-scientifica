@@ -1,0 +1,2 @@
+# store only compressed version of data (too large)
+*.csv
